@@ -1,3 +1,6 @@
+
+Identitas Diri
+
 Nama : Delina Permatasari
 NPM : 1406029
 Jurusan/Kelas : Teknik Informatika/C
