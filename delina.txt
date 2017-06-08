@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Identitas
+=======
+Identitas Diri
+>>>>>>> 2b22d20aaa1926abcc8ad4e99e6374e2c8bfba5b
 
 Nama : Delina Permatasari
 NPM : 1406029
 Jurusan/Kelas : Teknik Informatika/C
+<<<<<<< HEAD
 Username (GitHub) : Delina1406029
+=======
+>>>>>>> 2b22d20aaa1926abcc8ad4e99e6374e2c8bfba5b
