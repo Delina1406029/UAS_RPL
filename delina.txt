@@ -6,20 +6,6 @@ Jurusan/Kelas : Teknik Informatika/C
 Username (GitHub) : Delina1406029
 Email : 1406029@sttgarut.ac.id
 
-SOAL UJIAN AKHIR SEMESTER 2016/2017-2
-
-Pada ujian saat ini, anda diminta untuk mempelajari Git dan GitHub. Hal pertama yang harus terpenuhi untuk melakukan ujian ini adalah komputer yang terpasang aplikasi Git. Untuk pengguna windows, gunakan Git Bash. Untuk pengguna linux, pasang melalui repository masing-masing distro yang digunakan.
-Langkah-langkah yang harus dilakukan untuk memenuhi ujian ini adalah :
-1.Pasang aplikasi Git di komputer lokal masing-masing.
-2.Buat akun di GitHub (http://www.github.com).
-3.Buat repository yang mengandung kata RPL di dalamnya. Repository harus bersifat public, jangan dibuat private.
-4.Lakukan clone repository kosong tersebut ke komputer lokal anda dengan menggunakan aplikasi Git.
-5.Buat sebuah berkas baru (format bebas tetapi berupa dokumen) dan simpan di dalam repository.
-6.Lakukan commit dan push perubahan ke repository di GitHub.
-7.Pastikan push berhasil, ditandai dengan munculnya daftar berkas pada GitHub.
-8.Lakukan perubahan terhadap repository (baik dengan menambah, menghapus, atau mengubah berkas) minimal 5 kali, ditandai dengan melakukan 5 kali commit dan push ke GitHub.
-9.Akun masing-masing mahasiswa disetor ke ketua kelas. ketua kelas membuat daftar berupa tabel yang mengandung NIM, Nama, dan Username GitHub.
-10.Tabel daftar username GitHub dikirim oleh ketua kelas ke rickardelsen@sttgarut.ac.id dalam waktu paling lambat 5x24 jam, terhitung sejak jam ujian dimulai.
 
 langkah-langkah mengupload file/berkas ke dalam repository :
 1.Masuk ke akun Git.
